@@ -1,3 +1,7 @@
+Modifed tensorflow's CFAR-10 example to evaluate on other images.
+
+cifar10.py contains the mojority of the program, cifar10_train.py downloads the image training and test sets and begins training. cifar10_eval.py prints the accuracy of the trained model on the test/evaluation image set.
+
 CIFAR-10 is a common benchmark in machine learning for image recognition.
 
 http://www.cs.toronto.edu/~kriz/cifar.html
