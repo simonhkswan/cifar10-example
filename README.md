@@ -1,4 +1,6 @@
-Modifed tensorflow's CFAR-10 example to evaluate on other images.
+#CIFAR-10 Examples with TensorFlow
+
+### IPython notebook with TensorFlow's tutorial and a modified example to evaluate other images.
 
 cifar10.py contains the mojority of the program, cifar10_train.py downloads the image training and test sets and begins training. cifar10_eval.py prints the accuracy of the trained model on the test/evaluation image set.
 
