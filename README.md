@@ -1,4 +1,4 @@
-#CIFAR-10 Examples with TensorFlow
+# CIFAR-10 Examples with TensorFlow
 
 ### IPython notebook with TensorFlow's tutorial and a modified example to evaluate other images.
 
