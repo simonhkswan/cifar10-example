@@ -1,8 +1,10 @@
 # CIFAR-10 Examples with TensorFlow
 
-### IPython notebook with TensorFlow's tutorial and a modified example to evaluate other images.
+### IPython notebook with TensorFlow's tutorial and a more basic model (no image augmentation yet) to help understand what is happening in the model.
 
-cifar10.py contains the mojority of the program, cifar10_train.py downloads the image training and test sets and begins training. cifar10_eval.py prints the accuracy of the trained model on the test/evaluation image set.
+The notebook has a script adapted from tensorflows tutorial in CIFAR (see link below).
+
+The python file is a different script altogether which is much easier to go though.
 
 CIFAR-10 is a common benchmark in machine learning for image recognition.
 
